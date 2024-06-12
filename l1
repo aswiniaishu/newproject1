@@ -1,0 +1,6 @@
+git merge means the fast forwarding 
+commit ids are arranged in linear fashion
+one extra commit ids are added
+not possible to rearrange trhe commit ids
+git merge is one step process
+
